@@ -8,7 +8,7 @@ def get_head_commit_author():
 
     # %an gets author name
     lv_cmd = 'git log -1 --pretty=format:%an HEAD'
-    lv_result = subprocess.run(lv_cmd, stdout=subprocess.PIPE)
+    lv_result = subprocess.run(lv_cmd, stdout=subprocess.PIPE, shell=True)
     lv_name = lv_result.stdout.decode('utf-8')
     logging.info(f"Author name is: {lv_name}")
     return lv_name

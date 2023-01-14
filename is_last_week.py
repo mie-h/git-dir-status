@@ -9,7 +9,7 @@ def get_head_commit_time():
 
     # %at gets author date, UNIX timestamp
     lv_cmd = 'git log -1 --pretty=format:%at HEAD'
-    lv_result = subprocess.run(lv_cmd, stdout=subprocess.PIPE)
+    lv_result = subprocess.run(lv_cmd, stdout=subprocess.PIPE, shell=True)
     lv_epoch_time = float(lv_result.stdout.decode('utf-8'))
     lv_datetime = datetime.fromtimestamp(float(lv_epoch_time)) 
     logging.info(f"Authorized datetime: {lv_datetime}") 
