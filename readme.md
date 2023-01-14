@@ -21,7 +21,7 @@ git clone https://github.com/mie-h/git-dir-status.git
 
 2. Install packages
    ```sh
-   pip install
+   pip3 install -r requirements.txt
    ```
 
 ## Usage
@@ -29,7 +29,7 @@ git clone https://github.com/mie-h/git-dir-status.git
 Run the program using following command.
 
 ```sh
-   python interface.py --git_dir <path to git repo>
+   python3 interface.py --git_dir <path to git repo>
 ```
 
 This will create `interface.log` file and output the following:
