@@ -1,0 +1,879 @@
+2023-01-13 15:43:24,365 ERROR:git_dir is not git repo or invalid.
+2023-01-13 15:49:50,782 INFO:Check status of directory: ../gpt3-sentiment-analysis/
+2023-01-13 15:49:50,785 INFO:Task completed
+2023-01-13 15:50:45,701 INFO:Check status of directory: ../gpt3-sentiment-analysis/
+2023-01-13 15:50:45,701 INFO:Task completed
+2023-01-13 16:30:01,991 INFO:Check status of directory: ../gpt3-sentiment-analysis/
+2023-01-13 16:30:02,038 INFO:Get active branch name
+2023-01-13 16:30:02,038 INFO:active branch: None
+2023-01-13 16:30:02,038 INFO:Check whether repository files have been modified
+2023-01-13 16:30:02,038 INFO:local changes: None
+2023-01-13 16:30:02,039 INFO:Check whether the current head commit was authored in the last week
+2023-01-13 16:30:23,538 INFO:Check status of directory: ../gpt3-sentiment-analysis/
+2023-01-13 16:30:23,563 INFO:Get active branch name
+2023-01-13 16:30:23,563 INFO:active branch: None
+2023-01-13 16:30:23,563 INFO:Check whether repository files have been modified
+2023-01-13 16:30:23,563 INFO:local changes: None
+2023-01-13 16:30:23,563 INFO:Check whether the current head commit was authored in the last week
+2023-01-13 16:30:23,743 INFO:recent commit: None
+2023-01-13 16:30:23,743 INFO:Check whether the current head commit was authored by Rufus
+2023-01-13 16:30:23,743 INFO:blame Rufus: None
+2023-01-13 16:30:23,743 INFO:Output on stdout...
+2023-01-13 16:30:23,744 INFO:Output on stdout successful
+2023-01-13 16:30:23,744 INFO:Task completed
+2023-01-13 16:30:48,895 INFO:Check status of directory: ../gpt3-sentiment-analysis/
+2023-01-13 16:30:48,914 INFO:Get active branch name
+2023-01-13 16:30:48,914 INFO:active branch: None
+2023-01-13 16:30:48,914 INFO:Check whether repository files have been modified
+2023-01-13 16:30:48,914 INFO:local changes: None
+2023-01-13 16:30:48,914 INFO:Check whether the current head commit was authored in the last week
+2023-01-13 16:30:48,992 INFO:recent commit: None
+2023-01-13 16:30:48,992 INFO:Check whether the current head commit was authored by Rufus
+2023-01-13 16:30:48,992 INFO:blame Rufus: None
+2023-01-13 16:30:48,992 INFO:Output on stdout...
+2023-01-13 16:30:48,993 INFO:Output on stdout successful
+2023-01-13 16:30:48,994 INFO:Task completed
+2023-01-13 16:31:11,606 INFO:Check status of directory: ../gpt3-sentiment-analysis/
+2023-01-13 16:31:11,626 INFO:Get active branch name
+2023-01-13 16:31:11,626 INFO:active branch: None
+2023-01-13 16:31:11,627 INFO:Check whether repository files have been modified
+2023-01-13 16:31:11,627 INFO:local changes: None
+2023-01-13 16:31:11,627 INFO:Check whether the current head commit was authored in the last week
+2023-01-13 16:33:00,198 INFO:Check status of directory: ../gpt3-sentiment-analysis/
+2023-01-13 16:33:00,235 INFO:Get active branch name
+2023-01-13 16:33:00,236 INFO:active branch: None
+2023-01-13 16:33:00,236 INFO:Check whether repository files have been modified
+2023-01-13 16:33:00,236 INFO:local changes: None
+2023-01-13 16:33:00,236 INFO:Check whether the current head commit was authored in the last week
+2023-01-13 16:33:00,455 INFO:Current directory is /c/Users/rukam/Desktop/git-dir-status
+
+2023-01-13 16:33:00,455 INFO:recent commit: None
+2023-01-13 16:33:00,455 INFO:Check whether the current head commit was authored by Rufus
+2023-01-13 16:33:00,455 INFO:blame Rufus: None
+2023-01-13 16:33:00,455 INFO:Output on stdout...
+2023-01-13 16:33:00,461 INFO:Output on stdout successful
+2023-01-13 16:33:00,461 INFO:Task completed
+2023-01-13 16:40:31,261 INFO:Check status of directory: ../gpt3-sentiment-analysis/
+2023-01-13 16:40:31,262 INFO:Get active branch name
+2023-01-13 16:40:31,262 INFO:active branch: None
+2023-01-13 16:40:31,262 INFO:Check whether repository files have been modified
+2023-01-13 16:40:31,262 INFO:local changes: None
+2023-01-13 16:40:31,262 INFO:Check whether the current head commit was authored in the last week
+2023-01-13 16:40:31,263 INFO:Change directory to ../gpt3-sentiment-analysis/
+2023-01-13 16:40:31,264 INFO:recent commit: None
+2023-01-13 16:40:31,264 INFO:Check whether the current head commit was authored by Rufus
+2023-01-13 16:40:31,265 INFO:blame Rufus: None
+2023-01-13 16:40:31,266 INFO:Output on stdout...
+2023-01-13 16:40:31,272 INFO:Output on stdout successful
+2023-01-13 16:40:31,272 INFO:Task completed
+2023-01-13 16:41:05,895 INFO:Check status of directory: ../gpt3-sentiment-analysis/
+2023-01-13 16:41:05,895 INFO:Get active branch name
+2023-01-13 16:41:05,895 INFO:active branch: None
+2023-01-13 16:41:05,895 INFO:Check whether repository files have been modified
+2023-01-13 16:41:05,895 INFO:local changes: None
+2023-01-13 16:41:05,895 INFO:Check whether the current head commit was authored in the last week
+2023-01-13 16:41:05,896 INFO:Change directory to ../gpt3-sentiment-analysis/
+2023-01-13 16:41:05,896 INFO:recent commit: None
+2023-01-13 16:41:05,896 INFO:Check whether the current head commit was authored by Rufus
+2023-01-13 16:41:05,896 INFO:blame Rufus: None
+2023-01-13 16:41:05,896 INFO:Output on stdout...
+2023-01-13 16:41:05,898 INFO:Output on stdout successful
+2023-01-13 16:41:05,898 INFO:Task completed
+2023-01-13 16:42:49,084 INFO:Check status of directory: ../gpt3-sentiment-analysis/
+2023-01-13 16:42:49,084 INFO:Changed directory to ../gpt3-sentiment-analysis/
+2023-01-13 16:42:49,084 INFO:Get active branch name
+2023-01-13 16:42:49,084 INFO:active branch: None
+2023-01-13 16:42:49,084 INFO:Check whether repository files have been modified
+2023-01-13 16:42:49,084 INFO:local changes: None
+2023-01-13 16:42:49,084 INFO:Check whether the current head commit was authored in the last week
+2023-01-13 16:42:49,084 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 16:42:49,139 INFO:recent commit: None
+2023-01-13 16:42:49,139 INFO:Check whether the current head commit was authored by Rufus
+2023-01-13 16:42:49,139 INFO:blame Rufus: None
+2023-01-13 16:42:49,139 INFO:Output on stdout...
+2023-01-13 16:42:49,141 INFO:Output on stdout successful
+2023-01-13 16:42:49,141 INFO:Task completed
+2023-01-13 16:43:40,670 INFO:Check status of directory: ../gpt3-sentiment-analysis/
+2023-01-13 16:43:40,671 INFO:Changed directory to ../gpt3-sentiment-analysis/
+2023-01-13 16:43:40,671 INFO:Get active branch name
+2023-01-13 16:43:40,671 INFO:active branch: None
+2023-01-13 16:43:40,671 INFO:Check whether repository files have been modified
+2023-01-13 16:43:40,671 INFO:local changes: None
+2023-01-13 16:43:40,671 INFO:Check whether the current head commit was authored in the last week
+2023-01-13 16:43:40,671 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 16:43:40,705 INFO:recent commit: None
+2023-01-13 16:43:40,705 INFO:Check whether the current head commit was authored by Rufus
+2023-01-13 16:43:40,705 INFO:blame Rufus: None
+2023-01-13 16:43:40,705 INFO:Output on stdout...
+2023-01-13 16:43:40,706 INFO:Output on stdout successful
+2023-01-13 16:43:40,707 INFO:Task completed
+2023-01-13 17:09:51,469 INFO:Check status of directory: ../gpt3-sentiment-analysis/
+2023-01-13 17:09:51,470 INFO:Changed directory to ../gpt3-sentiment-analysis/
+2023-01-13 17:09:51,470 INFO:Get active branch name
+2023-01-13 17:09:51,470 INFO:active branch: None
+2023-01-13 17:09:51,470 INFO:Check whether repository files have been modified
+2023-01-13 17:09:51,470 INFO:local changes: None
+2023-01-13 17:09:51,470 INFO:Check whether the current head commit was authored in the last week
+2023-01-13 17:09:51,470 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 17:09:51,550 INFO:recent commit: None
+2023-01-13 17:09:51,550 INFO:Check whether the current head commit was authored by Rufus
+2023-01-13 17:09:51,551 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 17:09:51,592 INFO:blame Rufus: False
+2023-01-13 17:09:51,593 INFO:Output on stdout...
+2023-01-13 17:09:51,595 INFO:Output on stdout successful
+2023-01-13 17:09:51,596 INFO:Task completed
+2023-01-13 17:13:29,310 INFO:Check status of directory: ../gpt3-sentiment-analysis/
+2023-01-13 17:13:29,311 INFO:Changed directory to ../gpt3-sentiment-analysis/
+2023-01-13 17:13:29,312 INFO:Get active branch name
+2023-01-13 17:13:29,312 INFO:active branch: None
+2023-01-13 17:13:29,312 INFO:Check whether repository files have been modified
+2023-01-13 17:13:39,882 INFO:Check status of directory: ../gpt3-sentiment-analysis/
+2023-01-13 17:13:39,883 INFO:Changed directory to ../gpt3-sentiment-analysis/
+2023-01-13 17:13:39,883 INFO:Get active branch name
+2023-01-13 17:13:39,883 INFO:active branch: None
+2023-01-13 17:13:39,883 INFO:Check whether repository files have been modified
+2023-01-13 17:13:39,883 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 17:13:39,960 INFO:local changes: None
+2023-01-13 17:13:39,960 INFO:Check whether the current head commit was authored in the last week
+2023-01-13 17:13:39,961 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 17:13:40,030 INFO:recent commit: None
+2023-01-13 17:13:40,030 INFO:Check whether the current head commit was authored by Rufus
+2023-01-13 17:13:40,030 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 17:13:40,069 INFO:blame Rufus: False
+2023-01-13 17:13:40,069 INFO:Output on stdout...
+2023-01-13 17:13:40,070 INFO:Output on stdout successful
+2023-01-13 17:13:40,071 INFO:Task completed
+2023-01-13 17:14:51,060 INFO:Check status of directory: ../gpt3-sentiment-analysis/
+2023-01-13 17:14:51,060 INFO:Changed directory to ../gpt3-sentiment-analysis/
+2023-01-13 17:14:51,060 INFO:Get active branch name
+2023-01-13 17:14:51,060 INFO:active branch: None
+2023-01-13 17:14:51,060 INFO:Check whether repository files have been modified
+2023-01-13 17:14:51,061 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 17:14:58,979 INFO:Check status of directory: ../gpt3-sentiment-analysis/
+2023-01-13 17:14:58,979 INFO:Changed directory to ../gpt3-sentiment-analysis/
+2023-01-13 17:14:58,979 INFO:Get active branch name
+2023-01-13 17:14:58,979 INFO:active branch: None
+2023-01-13 17:14:58,979 INFO:Check whether repository files have been modified
+2023-01-13 17:14:58,979 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 17:14:59,017 INFO:local changes: False
+2023-01-13 17:14:59,017 INFO:Check whether the current head commit was authored in the last week
+2023-01-13 17:14:59,017 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 17:14:59,051 INFO:recent commit: None
+2023-01-13 17:14:59,051 INFO:Check whether the current head commit was authored by Rufus
+2023-01-13 17:14:59,051 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 17:14:59,081 INFO:blame Rufus: False
+2023-01-13 17:14:59,081 INFO:Output on stdout...
+2023-01-13 17:14:59,083 INFO:Output on stdout successful
+2023-01-13 17:14:59,083 INFO:Task completed
+2023-01-13 17:16:49,538 INFO:Check status of directory: ../gpt3-sentiment-analysis/
+2023-01-13 17:16:49,539 INFO:Changed directory to ../gpt3-sentiment-analysis/
+2023-01-13 17:16:49,540 INFO:Get active branch name
+2023-01-13 17:16:49,540 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 17:16:49,579 INFO:active branch:  (HEAD -> main, origin/main)
+2023-01-13 17:16:49,579 INFO:Check whether repository files have been modified
+2023-01-13 17:16:49,579 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 17:16:49,612 INFO:local changes: False
+2023-01-13 17:16:49,612 INFO:Check whether the current head commit was authored in the last week
+2023-01-13 17:16:49,612 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 17:16:49,645 INFO:recent commit: None
+2023-01-13 17:16:49,645 INFO:Check whether the current head commit was authored by Rufus
+2023-01-13 17:16:49,645 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 17:16:49,680 INFO:blame Rufus: False
+2023-01-13 17:16:49,681 INFO:Output on stdout...
+2023-01-13 17:16:49,682 INFO:Output on stdout successful
+2023-01-13 17:16:49,682 INFO:Task completed
+2023-01-13 17:18:13,262 INFO:Check status of directory: ../gpt3-sentiment-analysis/
+2023-01-13 17:18:13,262 INFO:Changed directory to ../gpt3-sentiment-analysis/
+2023-01-13 17:18:13,263 INFO:Get active branch name
+2023-01-13 17:18:13,263 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 17:18:13,299 INFO:active branch:  (HEAD -> temp-branch, origin/main, main)
+2023-01-13 17:18:13,299 INFO:Check whether repository files have been modified
+2023-01-13 17:18:13,299 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 17:18:13,333 INFO:local changes: False
+2023-01-13 17:18:13,333 INFO:Check whether the current head commit was authored in the last week
+2023-01-13 17:18:13,333 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 17:18:13,368 INFO:recent commit: None
+2023-01-13 17:18:13,368 INFO:Check whether the current head commit was authored by Rufus
+2023-01-13 17:18:13,368 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 17:18:13,401 INFO:blame Rufus: False
+2023-01-13 17:18:13,401 INFO:Output on stdout...
+2023-01-13 17:18:13,402 INFO:Output on stdout successful
+2023-01-13 17:18:13,402 INFO:Task completed
+2023-01-13 17:18:56,295 INFO:Check status of directory: ../gpt3-sentiment-analysis/
+2023-01-13 17:18:56,296 INFO:Changed directory to ../gpt3-sentiment-analysis/
+2023-01-13 17:18:56,297 INFO:Get active branch name
+2023-01-13 17:18:56,297 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 17:18:56,329 INFO:active branch: HEAD -> temp-branch, origin/main, main
+2023-01-13 17:18:56,329 INFO:Check whether repository files have been modified
+2023-01-13 17:18:56,329 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 17:18:56,365 INFO:local changes: False
+2023-01-13 17:18:56,366 INFO:Check whether the current head commit was authored in the last week
+2023-01-13 17:18:56,366 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 17:18:56,398 INFO:recent commit: None
+2023-01-13 17:18:56,398 INFO:Check whether the current head commit was authored by Rufus
+2023-01-13 17:18:56,398 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 17:18:56,432 INFO:blame Rufus: False
+2023-01-13 17:18:56,432 INFO:Output on stdout...
+2023-01-13 17:18:56,433 INFO:Output on stdout successful
+2023-01-13 17:18:56,433 INFO:Task completed
+2023-01-13 17:19:31,149 INFO:Check status of directory: ../gpt3-sentiment-analysis/
+2023-01-13 17:19:31,149 INFO:Changed directory to ../gpt3-sentiment-analysis/
+2023-01-13 17:19:31,149 INFO:Get active branch name
+2023-01-13 17:19:31,149 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 17:19:31,184 INFO:active branch: HEAD
+2023-01-13 17:19:31,184 INFO:Check whether repository files have been modified
+2023-01-13 17:19:31,184 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 17:19:31,220 INFO:local changes: False
+2023-01-13 17:19:31,220 INFO:Check whether the current head commit was authored in the last week
+2023-01-13 17:19:31,220 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 17:19:31,264 INFO:recent commit: None
+2023-01-13 17:19:31,265 INFO:Check whether the current head commit was authored by Rufus
+2023-01-13 17:19:31,265 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 17:19:31,295 INFO:blame Rufus: False
+2023-01-13 17:19:31,296 INFO:Output on stdout...
+2023-01-13 17:19:31,297 INFO:Output on stdout successful
+2023-01-13 17:19:31,297 INFO:Task completed
+2023-01-13 17:20:06,266 INFO:Check status of directory: ../gpt3-sentiment-analysis/
+2023-01-13 17:20:06,266 INFO:Changed directory to ../gpt3-sentiment-analysis/
+2023-01-13 17:20:06,267 INFO:Get active branch name
+2023-01-13 17:20:06,267 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 17:20:06,310 INFO:active branch:  (HEAD -> temp-branch, origin/main, main)escribe:tags
+2023-01-13 17:20:06,310 INFO:Check whether repository files have been modified
+2023-01-13 17:20:06,310 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 17:20:06,358 INFO:local changes: False
+2023-01-13 17:20:06,359 INFO:Check whether the current head commit was authored in the last week
+2023-01-13 17:20:06,359 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 17:20:06,405 INFO:recent commit: None
+2023-01-13 17:20:06,405 INFO:Check whether the current head commit was authored by Rufus
+2023-01-13 17:20:06,405 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 17:20:06,448 INFO:blame Rufus: False
+2023-01-13 17:20:06,448 INFO:Output on stdout...
+2023-01-13 17:20:06,449 INFO:Output on stdout successful
+2023-01-13 17:20:06,449 INFO:Task completed
+2023-01-13 17:20:19,611 INFO:Check status of directory: ../gpt3-sentiment-analysis/
+2023-01-13 17:20:19,612 INFO:Changed directory to ../gpt3-sentiment-analysis/
+2023-01-13 17:20:19,612 INFO:Get active branch name
+2023-01-13 17:20:19,612 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 17:20:19,653 INFO:active branch:  (HEAD -> temp-branch, origin/main, main):tags
+2023-01-13 17:20:19,654 INFO:Check whether repository files have been modified
+2023-01-13 17:20:19,654 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 17:20:19,689 INFO:local changes: False
+2023-01-13 17:20:19,689 INFO:Check whether the current head commit was authored in the last week
+2023-01-13 17:20:19,689 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 17:20:19,726 INFO:recent commit: None
+2023-01-13 17:20:19,727 INFO:Check whether the current head commit was authored by Rufus
+2023-01-13 17:20:19,727 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 17:20:19,761 INFO:blame Rufus: False
+2023-01-13 17:20:19,761 INFO:Output on stdout...
+2023-01-13 17:20:19,762 INFO:Output on stdout successful
+2023-01-13 17:20:19,762 INFO:Task completed
+2023-01-13 17:20:37,746 INFO:Check status of directory: ../gpt3-sentiment-analysis/
+2023-01-13 17:20:37,746 INFO:Changed directory to ../gpt3-sentiment-analysis/
+2023-01-13 17:20:37,746 INFO:Get active branch name
+2023-01-13 17:20:37,746 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 17:20:37,779 INFO:active branch:  (HEAD -> temp-branch, origin/main, main):f5e77baags
+2023-01-13 17:20:37,780 INFO:Check whether repository files have been modified
+2023-01-13 17:20:37,780 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 17:20:37,811 INFO:local changes: False
+2023-01-13 17:20:37,811 INFO:Check whether the current head commit was authored in the last week
+2023-01-13 17:20:37,811 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 17:20:37,846 INFO:recent commit: None
+2023-01-13 17:20:37,846 INFO:Check whether the current head commit was authored by Rufus
+2023-01-13 17:20:37,847 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 17:20:37,889 INFO:blame Rufus: False
+2023-01-13 17:20:37,889 INFO:Output on stdout...
+2023-01-13 17:20:37,890 INFO:Output on stdout successful
+2023-01-13 17:20:37,891 INFO:Task completed
+2023-01-13 17:21:09,327 INFO:Check status of directory: ../gpt3-sentiment-analysis/
+2023-01-13 17:21:09,328 INFO:Changed directory to ../gpt3-sentiment-analysis/
+2023-01-13 17:21:09,328 INFO:Get active branch name
+2023-01-13 17:21:09,328 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 17:21:09,368 INFO:active branch: HEAD -> temp-branch, origin/main, main
+2023-01-13 17:21:09,369 INFO:Check whether repository files have been modified
+2023-01-13 17:21:09,369 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 17:21:09,408 INFO:local changes: False
+2023-01-13 17:21:09,408 INFO:Check whether the current head commit was authored in the last week
+2023-01-13 17:21:09,409 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 17:21:09,451 INFO:recent commit: None
+2023-01-13 17:21:09,451 INFO:Check whether the current head commit was authored by Rufus
+2023-01-13 17:21:09,451 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 17:21:09,491 INFO:blame Rufus: False
+2023-01-13 17:21:09,491 INFO:Output on stdout...
+2023-01-13 17:21:09,492 INFO:Output on stdout successful
+2023-01-13 17:21:09,493 INFO:Task completed
+2023-01-13 17:25:31,228 INFO:Check status of directory: ../gpt3-sentiment-analysis/
+2023-01-13 17:25:31,229 INFO:Changed directory to ../gpt3-sentiment-analysis/
+2023-01-13 17:25:31,229 INFO:Get active branch name
+2023-01-13 17:25:31,229 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 17:25:31,268 INFO:active branch: temp-branch
+
+2023-01-13 17:25:31,268 INFO:Check whether repository files have been modified
+2023-01-13 17:25:31,268 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 17:25:31,312 INFO:local changes: False
+2023-01-13 17:25:31,312 INFO:Check whether the current head commit was authored in the last week
+2023-01-13 17:25:31,312 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 17:25:31,343 INFO:recent commit: None
+2023-01-13 17:25:31,343 INFO:Check whether the current head commit was authored by Rufus
+2023-01-13 17:25:31,343 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 17:25:31,373 INFO:blame Rufus: False
+2023-01-13 17:25:31,373 INFO:Output on stdout...
+2023-01-13 17:25:31,374 INFO:Output on stdout successful
+2023-01-13 17:25:31,375 INFO:Task completed
+2023-01-13 17:26:07,390 INFO:Check status of directory: ../gpt3-sentiment-analysis/
+2023-01-13 17:26:07,390 INFO:Changed directory to ../gpt3-sentiment-analysis/
+2023-01-13 17:26:07,390 INFO:Get active branch name
+2023-01-13 17:26:07,391 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 17:26:07,419 INFO:active branch: main
+
+2023-01-13 17:26:07,419 INFO:Check whether repository files have been modified
+2023-01-13 17:26:07,419 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 17:26:07,450 INFO:local changes: False
+2023-01-13 17:26:07,450 INFO:Check whether the current head commit was authored in the last week
+2023-01-13 17:26:07,450 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 17:26:07,481 INFO:recent commit: None
+2023-01-13 17:26:07,482 INFO:Check whether the current head commit was authored by Rufus
+2023-01-13 17:26:07,482 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 17:26:07,513 INFO:blame Rufus: False
+2023-01-13 17:26:07,514 INFO:Output on stdout...
+2023-01-13 17:26:07,515 INFO:Output on stdout successful
+2023-01-13 17:26:07,515 INFO:Task completed
+2023-01-13 17:26:20,785 INFO:Check status of directory: ../gpt3-sentiment-analysis/
+2023-01-13 17:26:20,785 INFO:Changed directory to ../gpt3-sentiment-analysis/
+2023-01-13 17:26:20,785 INFO:Get active branch name
+2023-01-13 17:26:20,785 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 17:26:20,815 INFO:active branch: main
+
+2023-01-13 17:26:20,815 INFO:Check whether repository files have been modified
+2023-01-13 17:26:20,815 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 17:26:20,861 INFO:local changes: False
+2023-01-13 17:26:20,862 INFO:Check whether the current head commit was authored in the last week
+2023-01-13 17:26:20,862 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 17:26:20,946 INFO:recent commit: None
+2023-01-13 17:26:20,946 INFO:Check whether the current head commit was authored by Rufus
+2023-01-13 17:26:20,946 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 17:26:20,980 INFO:blame Rufus: False
+2023-01-13 17:26:20,980 INFO:Output on stdout...
+2023-01-13 17:26:20,981 INFO:Output on stdout successful
+2023-01-13 17:26:20,981 INFO:Task completed
+2023-01-13 17:27:17,463 INFO:Check status of directory: ../gpt3-sentiment-analysis/
+2023-01-13 17:27:17,464 INFO:Changed directory to ../gpt3-sentiment-analysis/
+2023-01-13 17:27:17,464 INFO:Get active branch name
+2023-01-13 17:27:17,464 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 17:27:17,493 INFO:active branch: main
+2023-01-13 17:27:17,493 INFO:Check whether repository files have been modified
+2023-01-13 17:27:17,493 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 17:27:17,536 INFO:local changes: False
+2023-01-13 17:27:17,536 INFO:Check whether the current head commit was authored in the last week
+2023-01-13 17:27:17,536 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 17:27:17,579 INFO:recent commit: None
+2023-01-13 17:27:17,579 INFO:Check whether the current head commit was authored by Rufus
+2023-01-13 17:27:17,579 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 17:27:17,615 INFO:blame Rufus: False
+2023-01-13 17:27:17,615 INFO:Output on stdout...
+2023-01-13 17:27:17,616 INFO:Output on stdout successful
+2023-01-13 17:27:17,616 INFO:Task completed
+2023-01-13 18:31:48,816 INFO:Check status of directory: ../gpt3-sentiment-analysis/
+2023-01-13 18:31:48,817 INFO:Changed directory to ../gpt3-sentiment-analysis/
+2023-01-13 18:31:48,817 INFO:Get active branch name
+2023-01-13 18:31:48,817 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 18:31:48,857 INFO:active branch: main
+2023-01-13 18:31:48,857 INFO:Check whether repository files have been modified
+2023-01-13 18:31:48,857 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 18:31:48,903 INFO:local changes: False
+2023-01-13 18:31:48,903 INFO:Check whether the current head commit was authored in the last week
+2023-01-13 18:31:48,903 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 18:32:20,591 INFO:Check status of directory: ../gpt3-sentiment-analysis/
+2023-01-13 18:32:20,591 INFO:Changed directory to ../gpt3-sentiment-analysis/
+2023-01-13 18:32:20,591 INFO:Get active branch name
+2023-01-13 18:32:20,591 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 18:32:20,624 INFO:active branch: main
+2023-01-13 18:32:20,624 INFO:Check whether repository files have been modified
+2023-01-13 18:32:20,624 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 18:32:20,660 INFO:local changes: False
+2023-01-13 18:32:20,660 INFO:Check whether the current head commit was authored in the last week
+2023-01-13 18:32:20,661 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 18:32:20,698 INFO:recent commit: False
+2023-01-13 18:32:20,698 INFO:Check whether the current head commit was authored by Rufus
+2023-01-13 18:32:20,698 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 18:32:20,735 INFO:blame Rufus: False
+2023-01-13 18:32:20,736 INFO:Output on stdout...
+2023-01-13 18:32:20,737 INFO:Output on stdout successful
+2023-01-13 18:32:20,737 INFO:Task completed
+2023-01-13 18:33:58,116 INFO:Check status of directory: ../gpt3-sentiment-analysis/
+2023-01-13 18:33:58,117 INFO:Changed directory to ../gpt3-sentiment-analysis/
+2023-01-13 18:33:58,118 INFO:Get active branch name
+2023-01-13 18:33:58,118 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 18:33:58,173 INFO:active branch: main
+2023-01-13 18:33:58,174 INFO:Check whether repository files have been modified
+2023-01-13 18:33:58,174 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 18:33:58,245 INFO:local changes: False
+2023-01-13 18:33:58,246 INFO:Check whether the current head commit was authored in the last week
+2023-01-13 18:33:58,246 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 18:34:09,518 INFO:Check status of directory: ../gpt3-sentiment-analysis/
+2023-01-13 18:34:09,519 INFO:Changed directory to ../gpt3-sentiment-analysis/
+2023-01-13 18:34:09,519 INFO:Get active branch name
+2023-01-13 18:34:09,519 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 18:34:09,548 INFO:active branch: main
+2023-01-13 18:34:09,549 INFO:Check whether repository files have been modified
+2023-01-13 18:34:09,549 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 18:34:09,579 INFO:local changes: False
+2023-01-13 18:34:09,580 INFO:Check whether the current head commit was authored in the last week
+2023-01-13 18:34:09,580 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 18:34:25,058 INFO:Check status of directory: ../gpt3-sentiment-analysis/
+2023-01-13 18:34:25,059 INFO:Changed directory to ../gpt3-sentiment-analysis/
+2023-01-13 18:34:25,059 INFO:Get active branch name
+2023-01-13 18:34:25,059 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 18:34:25,095 INFO:active branch: main
+2023-01-13 18:34:25,096 INFO:Check whether repository files have been modified
+2023-01-13 18:34:25,096 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 18:34:25,126 INFO:local changes: False
+2023-01-13 18:34:25,126 INFO:Check whether the current head commit was authored in the last week
+2023-01-13 18:34:25,126 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 18:34:25,159 INFO:recent commit: False
+2023-01-13 18:34:25,159 INFO:Check whether the current head commit was authored by Rufus
+2023-01-13 18:34:25,159 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 18:34:25,209 INFO:blame Rufus: False
+2023-01-13 18:34:25,210 INFO:Output on stdout...
+2023-01-13 18:34:25,212 INFO:Output on stdout successful
+2023-01-13 18:34:25,212 INFO:Task completed
+2023-01-13 18:35:57,353 INFO:Check status of directory: ../gpt3-sentiment-analysis/
+2023-01-13 18:35:57,353 INFO:Changed directory to ../gpt3-sentiment-analysis/
+2023-01-13 18:35:57,353 INFO:Get active branch name
+2023-01-13 18:35:57,353 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 18:35:57,385 INFO:active branch: main
+2023-01-13 18:35:57,385 INFO:Check whether repository files have been modified
+2023-01-13 18:35:57,385 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 18:35:57,415 INFO:local changes: False
+2023-01-13 18:35:57,415 INFO:Check whether the current head commit was authored in the last week
+2023-01-13 18:35:57,415 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 18:35:57,450 INFO:Authorized datetime: 2022-12-17 15:45:50
+2023-01-13 18:35:57,450 INFO:recent commit: False
+2023-01-13 18:35:57,450 INFO:Check whether the current head commit was authored by Rufus
+2023-01-13 18:35:57,450 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 18:35:57,484 INFO:blame Rufus: False
+2023-01-13 18:35:57,485 INFO:Output on stdout...
+2023-01-13 18:35:57,486 INFO:Output on stdout successful
+2023-01-13 18:35:57,486 INFO:Task completed
+2023-01-13 18:36:53,866 INFO:Check status of directory: ../gpt3-sentiment-analysis/
+2023-01-13 18:36:53,867 INFO:Changed directory to ../gpt3-sentiment-analysis/
+2023-01-13 18:36:53,867 INFO:Get active branch name
+2023-01-13 18:36:53,867 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 18:36:53,904 INFO:active branch: main
+2023-01-13 18:36:53,904 INFO:Check whether repository files have been modified
+2023-01-13 18:36:53,904 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 18:36:53,942 INFO:local changes: False
+2023-01-13 18:36:53,942 INFO:Check whether the current head commit was authored in the last week
+2023-01-13 18:36:53,942 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 18:36:53,981 INFO:Authorized datetime: 2022-12-17 15:45:50
+2023-01-13 18:36:53,981 INFO:Start day of last week is : 2023-01-02
+2023-01-13 18:36:53,981 INFO:End day of last week is : 2023-01-08
+2023-01-13 18:36:53,981 INFO:recent commit: False
+2023-01-13 18:36:53,981 INFO:Check whether the current head commit was authored by Rufus
+2023-01-13 18:36:53,982 INFO:Current working directory: C:\Users\rukam\Desktop\gpt3-sentiment-analysis
+2023-01-13 18:36:54,014 INFO:blame Rufus: False
+2023-01-13 18:36:54,014 INFO:Output on stdout...
+2023-01-13 18:36:54,017 INFO:Output on stdout successful
+2023-01-13 18:36:54,017 INFO:Task completed
+2023-01-14 09:55:22,393 INFO:Check status of directory: ../ecs_api/
+2023-01-14 09:55:22,394 INFO:Changed directory to ../ecs_api/
+2023-01-14 09:55:22,394 INFO:Get active branch name
+2023-01-14 09:55:22,394 INFO:Current working directory: C:\Users\rukam\Desktop\ecs_api
+2023-01-14 09:55:22,429 INFO:active branch: main
+2023-01-14 09:55:22,429 INFO:Check whether repository files have been modified
+2023-01-14 09:55:22,430 INFO:Current working directory: C:\Users\rukam\Desktop\ecs_api
+2023-01-14 09:55:22,480 INFO:local changes: False
+2023-01-14 09:55:22,480 INFO:Check whether the current head commit was authored in the last week
+2023-01-14 09:55:22,480 INFO:Current working directory: C:\Users\rukam\Desktop\ecs_api
+2023-01-14 09:55:22,514 INFO:Authorized datetime: 2023-01-08 19:40:52
+2023-01-14 09:55:22,515 INFO:Start day of last week is : 2023-01-02
+2023-01-14 09:55:22,515 INFO:End day of last week is : 2023-01-08
+2023-01-14 09:55:22,515 INFO:recent commit: False
+2023-01-14 09:55:22,515 INFO:Check whether the current head commit was authored by Rufus
+2023-01-14 09:55:22,515 INFO:Current working directory: C:\Users\rukam\Desktop\ecs_api
+2023-01-14 09:55:22,549 INFO:blame Rufus: False
+2023-01-14 09:55:22,550 INFO:Output on stdout...
+2023-01-14 09:55:22,551 INFO:Output on stdout successful
+2023-01-14 09:55:22,551 INFO:Task completed
+2023-01-14 09:59:01,303 INFO:Check status of directory: ../ecs_api/
+2023-01-14 09:59:01,304 INFO:Changed directory to ../ecs_api/
+2023-01-14 09:59:01,304 INFO:Get active branch name
+2023-01-14 09:59:01,304 INFO:Current working directory: C:\Users\rukam\Desktop\ecs_api
+2023-01-14 09:59:01,331 INFO:active branch: main
+2023-01-14 09:59:01,331 INFO:Check whether repository files have been modified
+2023-01-14 09:59:01,331 INFO:Current working directory: C:\Users\rukam\Desktop\ecs_api
+2023-01-14 09:59:01,360 INFO:local changes: False
+2023-01-14 09:59:01,360 INFO:Check whether the current head commit was authored in the last week
+2023-01-14 09:59:01,360 INFO:Current working directory: C:\Users\rukam\Desktop\ecs_api
+2023-01-14 09:59:01,389 INFO:Authorized datetime: 2023-01-08 19:40:52
+2023-01-14 09:59:01,389 INFO:Start day of last week is : 2023-01-02
+2023-01-14 09:59:01,389 INFO:End day of last week is : 2023-01-08
+2023-01-14 09:59:01,389 INFO:recent commit: True
+2023-01-14 09:59:01,389 INFO:Check whether the current head commit was authored by Rufus
+2023-01-14 09:59:01,389 INFO:Current working directory: C:\Users\rukam\Desktop\ecs_api
+2023-01-14 09:59:01,417 INFO:blame Rufus: False
+2023-01-14 09:59:01,417 INFO:Output on stdout...
+2023-01-14 09:59:01,418 INFO:Output on stdout successful
+2023-01-14 09:59:01,418 INFO:Task completed
+2023-01-14 10:00:19,229 INFO:Check status of directory: ../ecs_api/
+2023-01-14 10:00:19,230 INFO:Changed directory to ../ecs_api/
+2023-01-14 10:00:19,230 INFO:Get active branch name
+2023-01-14 10:00:19,230 INFO:Current working directory: C:\Users\rukam\Desktop\ecs_api
+2023-01-14 10:00:19,263 INFO:active branch: main
+2023-01-14 10:00:19,263 INFO:Check whether repository files have been modified
+2023-01-14 10:00:19,263 INFO:Current working directory: C:\Users\rukam\Desktop\ecs_api
+2023-01-14 10:00:19,298 INFO:local changes: False
+2023-01-14 10:00:19,298 INFO:Check whether the current head commit was authored in the last week
+2023-01-14 10:00:19,298 INFO:Current working directory: C:\Users\rukam\Desktop\ecs_api
+2023-01-14 10:00:19,332 INFO:Authorized datetime: 2023-01-08 19:40:52
+2023-01-14 10:00:19,332 INFO:Start day of last week is : 2023-01-02
+2023-01-14 10:00:19,332 INFO:End day of last week is : 2023-01-08
+2023-01-14 10:00:19,332 INFO:recent commit: True
+2023-01-14 10:00:19,332 INFO:Check whether the current head commit was authored by Rufus
+2023-01-14 10:00:19,332 INFO:Current working directory: C:\Users\rukam\Desktop\ecs_api
+2023-01-14 10:00:19,386 INFO:Author name is: mie-h
+2023-01-14 10:00:19,386 INFO:blame Rufus: False
+2023-01-14 10:00:19,386 INFO:Output on stdout...
+2023-01-14 10:00:19,387 INFO:Output on stdout successful
+2023-01-14 10:00:19,387 INFO:Task completed
+2023-01-14 10:00:42,740 INFO:Check status of directory: ../ecs_api/
+2023-01-14 10:00:42,740 INFO:Changed directory to ../ecs_api/
+2023-01-14 10:00:42,740 INFO:Get active branch name
+2023-01-14 10:00:42,740 INFO:Current working directory: C:\Users\rukam\Desktop\ecs_api
+2023-01-14 10:00:42,774 INFO:active branch: main
+2023-01-14 10:00:42,774 INFO:Check whether repository files have been modified
+2023-01-14 10:00:42,774 INFO:Current working directory: C:\Users\rukam\Desktop\ecs_api
+2023-01-14 10:00:42,808 INFO:local changes: False
+2023-01-14 10:00:42,808 INFO:Check whether the current head commit was authored in the last week
+2023-01-14 10:00:42,808 INFO:Current working directory: C:\Users\rukam\Desktop\ecs_api
+2023-01-14 10:00:42,846 INFO:Authorized datetime: 2023-01-08 19:40:52
+2023-01-14 10:00:42,846 INFO:Start day of last week is : 2023-01-02
+2023-01-14 10:00:42,846 INFO:End day of last week is : 2023-01-08
+2023-01-14 10:00:42,846 INFO:recent commit: True
+2023-01-14 10:00:42,846 INFO:Check whether the current head commit was authored by Rufus
+2023-01-14 10:00:42,846 INFO:Current working directory: C:\Users\rukam\Desktop\ecs_api
+2023-01-14 10:00:42,883 INFO:Author name is: mie-h
+2023-01-14 10:00:42,884 INFO:blame Rufus: True
+2023-01-14 10:00:42,884 INFO:Output on stdout...
+2023-01-14 10:00:42,885 INFO:Output on stdout successful
+2023-01-14 10:00:42,885 INFO:Task completed
+2023-01-14 10:02:01,630 INFO:Check status of directory: ../ecs_api/
+2023-01-14 10:02:01,631 INFO:Changed directory to ../ecs_api/
+2023-01-14 10:02:01,631 INFO:Get active branch name
+2023-01-14 10:02:01,631 INFO:Current working directory: C:\Users\rukam\Desktop\ecs_api
+2023-01-14 10:02:01,666 INFO:active branch: main
+2023-01-14 10:02:01,666 INFO:Check whether repository files have been modified
+2023-01-14 10:02:01,666 INFO:Current working directory: C:\Users\rukam\Desktop\ecs_api
+2023-01-14 10:02:01,708 INFO:local changes: True
+2023-01-14 10:02:01,709 INFO:Check whether the current head commit was authored in the last week
+2023-01-14 10:02:01,709 INFO:Current working directory: C:\Users\rukam\Desktop\ecs_api
+2023-01-14 10:02:01,749 INFO:Authorized datetime: 2023-01-08 19:40:52
+2023-01-14 10:02:01,749 INFO:Start day of last week is : 2023-01-02
+2023-01-14 10:02:01,750 INFO:End day of last week is : 2023-01-08
+2023-01-14 10:02:01,750 INFO:recent commit: True
+2023-01-14 10:02:01,750 INFO:Check whether the current head commit was authored by Rufus
+2023-01-14 10:02:01,750 INFO:Current working directory: C:\Users\rukam\Desktop\ecs_api
+2023-01-14 10:02:01,791 INFO:Author name is: mie-h
+2023-01-14 10:02:01,791 INFO:blame Rufus: False
+2023-01-14 10:02:01,791 INFO:Output on stdout...
+2023-01-14 10:02:01,793 INFO:Output on stdout successful
+2023-01-14 10:02:01,793 INFO:Task completed
+2023-01-14 10:03:28,582 INFO:Check status of directory: ../ecs_api/
+2023-01-14 10:03:28,583 INFO:Changed directory to ../ecs_api/
+2023-01-14 10:03:28,583 INFO:Get active branch name
+2023-01-14 10:03:28,583 INFO:Current working directory: C:\Users\rukam\Desktop\ecs_api
+2023-01-14 10:03:28,620 INFO:active branch: test_branch
+2023-01-14 10:03:28,620 INFO:Check whether repository files have been modified
+2023-01-14 10:03:28,620 INFO:Current working directory: C:\Users\rukam\Desktop\ecs_api
+2023-01-14 10:03:28,661 INFO:local changes: True
+2023-01-14 10:03:28,661 INFO:Check whether the current head commit was authored in the last week
+2023-01-14 10:03:28,661 INFO:Current working directory: C:\Users\rukam\Desktop\ecs_api
+2023-01-14 10:03:28,695 INFO:Authorized datetime: 2023-01-08 19:40:52
+2023-01-14 10:03:28,695 INFO:Start day of last week is : 2023-01-02
+2023-01-14 10:03:28,695 INFO:End day of last week is : 2023-01-08
+2023-01-14 10:03:28,695 INFO:recent commit: True
+2023-01-14 10:03:28,696 INFO:Check whether the current head commit was authored by Rufus
+2023-01-14 10:03:28,696 INFO:Current working directory: C:\Users\rukam\Desktop\ecs_api
+2023-01-14 10:03:28,731 INFO:Author name is: mie-h
+2023-01-14 10:03:28,731 INFO:blame Rufus: False
+2023-01-14 10:03:28,732 INFO:Output on stdout...
+2023-01-14 10:03:28,733 INFO:Output on stdout successful
+2023-01-14 10:03:28,733 INFO:Task completed
+2023-01-14 10:03:34,890 INFO:Check status of directory: ../ecs_api/
+2023-01-14 10:03:34,891 INFO:Changed directory to ../ecs_api/
+2023-01-14 10:03:34,891 INFO:Get active branch name
+2023-01-14 10:03:34,891 INFO:Current working directory: C:\Users\rukam\Desktop\ecs_api
+2023-01-14 10:03:34,936 INFO:active branch: test_branch
+2023-01-14 10:03:34,936 INFO:Check whether repository files have been modified
+2023-01-14 10:03:34,937 INFO:Current working directory: C:\Users\rukam\Desktop\ecs_api
+2023-01-14 10:03:34,972 INFO:local changes: True
+2023-01-14 10:03:34,972 INFO:Check whether the current head commit was authored in the last week
+2023-01-14 10:03:34,972 INFO:Current working directory: C:\Users\rukam\Desktop\ecs_api
+2023-01-14 10:03:35,002 INFO:Authorized datetime: 2023-01-08 19:40:52
+2023-01-14 10:03:35,002 INFO:Start day of last week is : 2023-01-02
+2023-01-14 10:03:35,002 INFO:End day of last week is : 2023-01-08
+2023-01-14 10:03:35,002 INFO:recent commit: True
+2023-01-14 10:03:35,002 INFO:Check whether the current head commit was authored by Rufus
+2023-01-14 10:03:35,002 INFO:Current working directory: C:\Users\rukam\Desktop\ecs_api
+2023-01-14 10:03:35,036 INFO:Author name is: mie-h
+2023-01-14 10:03:35,037 INFO:blame Rufus: False
+2023-01-14 10:03:35,037 INFO:Output on stdout...
+2023-01-14 10:03:35,038 INFO:Output on stdout successful
+2023-01-14 10:03:35,038 INFO:Task completed
+2023-01-14 10:05:01,085 INFO:Check status of directory: ../ecs_api/
+2023-01-14 10:05:01,086 INFO:Changed directory to ../ecs_api/
+2023-01-14 10:05:01,086 INFO:Get active branch name
+2023-01-14 10:05:01,086 INFO:Current working directory: C:\Users\rukam\Desktop\ecs_api
+2023-01-14 10:05:01,123 INFO:active branch: HEAD
+2023-01-14 10:05:01,123 INFO:Check whether repository files have been modified
+2023-01-14 10:05:01,123 INFO:Current working directory: C:\Users\rukam\Desktop\ecs_api
+2023-01-14 10:05:01,161 INFO:local changes: False
+2023-01-14 10:05:01,162 INFO:Check whether the current head commit was authored in the last week
+2023-01-14 10:05:01,162 INFO:Current working directory: C:\Users\rukam\Desktop\ecs_api
+2023-01-14 10:05:01,197 INFO:Authorized datetime: 2023-01-06 17:39:37
+2023-01-14 10:05:01,197 INFO:Start day of last week is : 2023-01-02
+2023-01-14 10:05:01,197 INFO:End day of last week is : 2023-01-08
+2023-01-14 10:05:01,197 INFO:recent commit: True
+2023-01-14 10:05:01,197 INFO:Check whether the current head commit was authored by Rufus
+2023-01-14 10:05:01,197 INFO:Current working directory: C:\Users\rukam\Desktop\ecs_api
+2023-01-14 10:05:01,234 INFO:Author name is: Mie Haga
+2023-01-14 10:05:01,235 INFO:blame Rufus: False
+2023-01-14 10:05:01,235 INFO:Output on stdout...
+2023-01-14 10:05:01,236 INFO:Output on stdout successful
+2023-01-14 10:05:01,236 INFO:Task completed
+2023-01-14 10:18:48,651 INFO:Check status of directory: ../ecs_api/
+2023-01-14 10:18:48,652 INFO:Changed directory to ../ecs_api/
+2023-01-14 10:18:48,652 INFO:Get active branch name
+2023-01-14 10:18:48,652 INFO:Current working directory: C:\Users\rukam\Desktop\ecs_api
+2023-01-14 10:18:48,683 INFO:active branch: test_branch
+2023-01-14 10:18:48,683 INFO:Check whether repository files have been modified
+2023-01-14 10:18:48,683 INFO:Current working directory: C:\Users\rukam\Desktop\ecs_api
+2023-01-14 10:18:48,715 INFO:local changes: False
+2023-01-14 10:18:48,715 INFO:Check whether the current head commit was authored in the last week
+2023-01-14 10:18:48,715 INFO:Current working directory: C:\Users\rukam\Desktop\ecs_api
+2023-01-14 10:18:48,749 INFO:Authorized datetime: 2023-01-08 19:40:52
+2023-01-14 10:18:48,749 INFO:Start day of last week is : 2023-01-02
+2023-01-14 10:18:48,749 INFO:End day of last week is : 2023-01-08
+2023-01-14 10:18:48,749 INFO:recent commit: True
+2023-01-14 10:18:48,749 INFO:Check whether the current head commit was authored by Rufus
+2023-01-14 10:18:48,749 INFO:Current working directory: C:\Users\rukam\Desktop\ecs_api
+2023-01-14 10:18:48,778 INFO:Author name is: mie-h
+2023-01-14 10:18:48,778 INFO:blame Rufus: False
+2023-01-14 10:18:48,778 INFO:Output on stdout...
+2023-01-14 10:18:48,780 INFO:Output on stdout successful
+2023-01-14 10:18:48,780 INFO:Task completed
+2023-01-14 10:19:01,533 INFO:Check status of directory: ../ecs_api/
+2023-01-14 10:19:01,533 INFO:Changed directory to ../ecs_api/
+2023-01-14 10:19:01,534 INFO:Get active branch name
+2023-01-14 10:19:01,534 INFO:Current working directory: C:\Users\rukam\Desktop\ecs_api
+2023-01-14 10:19:01,564 INFO:HEAD is detached
+2023-01-14 10:19:01,600 INFO:Detached HEAD is at df121a838eb565d45c5b6ef28023725ca163c932
+
+2023-01-14 10:19:01,600 INFO:active branch: df121a838eb565d45c5b6ef28023725ca163c932
+
+2023-01-14 10:19:01,600 INFO:Check whether repository files have been modified
+2023-01-14 10:19:01,600 INFO:Current working directory: C:\Users\rukam\Desktop\ecs_api
+2023-01-14 10:19:01,635 INFO:local changes: False
+2023-01-14 10:19:01,636 INFO:Check whether the current head commit was authored in the last week
+2023-01-14 10:19:01,636 INFO:Current working directory: C:\Users\rukam\Desktop\ecs_api
+2023-01-14 10:19:01,668 INFO:Authorized datetime: 2023-01-06 17:39:37
+2023-01-14 10:19:01,668 INFO:Start day of last week is : 2023-01-02
+2023-01-14 10:19:01,668 INFO:End day of last week is : 2023-01-08
+2023-01-14 10:19:01,669 INFO:recent commit: True
+2023-01-14 10:19:01,669 INFO:Check whether the current head commit was authored by Rufus
+2023-01-14 10:19:01,669 INFO:Current working directory: C:\Users\rukam\Desktop\ecs_api
+2023-01-14 10:19:01,699 INFO:Author name is: Mie Haga
+2023-01-14 10:19:01,700 INFO:blame Rufus: False
+2023-01-14 10:19:01,700 INFO:Output on stdout...
+2023-01-14 10:19:01,706 INFO:Output on stdout successful
+2023-01-14 10:19:01,706 INFO:Task completed
+2023-01-14 10:20:48,480 INFO:Check status of directory: ../ecs_api/
+2023-01-14 10:20:48,481 INFO:Changed directory to ../ecs_api/
+2023-01-14 10:20:48,481 INFO:Get active branch name
+2023-01-14 10:20:48,481 INFO:Current working directory: C:\Users\rukam\Desktop\ecs_api
+2023-01-14 10:20:48,513 INFO:HEAD is detached
+2023-01-14 10:20:48,542 INFO:Detached HEAD is at df121a838eb565d45c5b6ef28023725ca163c932
+2023-01-14 10:20:48,542 INFO:active branch: df121a838eb565d45c5b6ef28023725ca163c932
+2023-01-14 10:20:48,542 INFO:Check whether repository files have been modified
+2023-01-14 10:20:48,542 INFO:Current working directory: C:\Users\rukam\Desktop\ecs_api
+2023-01-14 10:20:48,583 INFO:local changes: False
+2023-01-14 10:20:48,583 INFO:Check whether the current head commit was authored in the last week
+2023-01-14 10:20:48,583 INFO:Current working directory: C:\Users\rukam\Desktop\ecs_api
+2023-01-14 10:20:48,615 INFO:Authorized datetime: 2023-01-06 17:39:37
+2023-01-14 10:20:48,615 INFO:Start day of last week is : 2023-01-02
+2023-01-14 10:20:48,615 INFO:End day of last week is : 2023-01-08
+2023-01-14 10:20:48,615 INFO:recent commit: True
+2023-01-14 10:20:48,615 INFO:Check whether the current head commit was authored by Rufus
+2023-01-14 10:20:48,615 INFO:Current working directory: C:\Users\rukam\Desktop\ecs_api
+2023-01-14 10:20:48,646 INFO:Author name is: Mie Haga
+2023-01-14 10:20:48,646 INFO:blame Rufus: False
+2023-01-14 10:20:48,646 INFO:Output on stdout...
+2023-01-14 10:20:48,647 INFO:Output on stdout successful
+2023-01-14 10:20:48,647 INFO:Task completed
+2023-01-14 10:21:06,387 INFO:Check status of directory: ../ecs_api/
+2023-01-14 10:21:06,387 INFO:Changed directory to ../ecs_api/
+2023-01-14 10:21:06,387 INFO:Get active branch name
+2023-01-14 10:21:06,387 INFO:Current working directory: C:\Users\rukam\Desktop\ecs_api
+2023-01-14 10:21:06,418 INFO:active branch: main
+2023-01-14 10:21:06,418 INFO:Check whether repository files have been modified
+2023-01-14 10:21:06,418 INFO:Current working directory: C:\Users\rukam\Desktop\ecs_api
+2023-01-14 10:21:06,452 INFO:local changes: False
+2023-01-14 10:21:06,452 INFO:Check whether the current head commit was authored in the last week
+2023-01-14 10:21:06,452 INFO:Current working directory: C:\Users\rukam\Desktop\ecs_api
+2023-01-14 10:21:06,482 INFO:Authorized datetime: 2023-01-08 19:40:52
+2023-01-14 10:21:06,482 INFO:Start day of last week is : 2023-01-02
+2023-01-14 10:21:06,483 INFO:End day of last week is : 2023-01-08
+2023-01-14 10:21:06,483 INFO:recent commit: True
+2023-01-14 10:21:06,483 INFO:Check whether the current head commit was authored by Rufus
+2023-01-14 10:21:06,483 INFO:Current working directory: C:\Users\rukam\Desktop\ecs_api
+2023-01-14 10:21:06,517 INFO:Author name is: mie-h
+2023-01-14 10:21:06,517 INFO:blame Rufus: False
+2023-01-14 10:21:06,517 INFO:Output on stdout...
+2023-01-14 10:21:06,518 INFO:Output on stdout successful
+2023-01-14 10:21:06,519 INFO:Task completed
+2023-01-14 10:21:10,137 INFO:Check status of directory: ../ecs_api/
+2023-01-14 10:21:10,137 INFO:Changed directory to ../ecs_api/
+2023-01-14 10:21:10,137 INFO:Get active branch name
+2023-01-14 10:21:10,137 INFO:Current working directory: C:\Users\rukam\Desktop\ecs_api
+2023-01-14 10:21:10,167 INFO:active branch: main
+2023-01-14 10:21:10,167 INFO:Check whether repository files have been modified
+2023-01-14 10:21:10,167 INFO:Current working directory: C:\Users\rukam\Desktop\ecs_api
+2023-01-14 10:21:10,198 INFO:local changes: False
+2023-01-14 10:21:10,198 INFO:Check whether the current head commit was authored in the last week
+2023-01-14 10:21:10,198 INFO:Current working directory: C:\Users\rukam\Desktop\ecs_api
+2023-01-14 10:21:10,232 INFO:Authorized datetime: 2023-01-08 19:40:52
+2023-01-14 10:21:10,232 INFO:Start day of last week is : 2023-01-02
+2023-01-14 10:21:10,232 INFO:End day of last week is : 2023-01-08
+2023-01-14 10:21:10,233 INFO:recent commit: True
+2023-01-14 10:21:10,233 INFO:Check whether the current head commit was authored by Rufus
+2023-01-14 10:21:10,233 INFO:Current working directory: C:\Users\rukam\Desktop\ecs_api
+2023-01-14 10:21:10,262 INFO:Author name is: mie-h
+2023-01-14 10:21:10,262 INFO:blame Rufus: False
+2023-01-14 10:21:10,262 INFO:Output on stdout...
+2023-01-14 10:21:10,263 INFO:Output on stdout successful
+2023-01-14 10:21:10,263 INFO:Task completed
+2023-01-14 10:21:46,931 INFO:Check status of directory: ../ecs_api/
+2023-01-14 10:21:46,931 INFO:Changed directory to ../ecs_api/
+2023-01-14 10:21:46,931 INFO:Get active branch name
+2023-01-14 10:21:46,931 INFO:Current working directory: C:\Users\rukam\Desktop\ecs_api
+2023-01-14 10:21:46,959 INFO:active branch: main
+2023-01-14 10:21:46,959 INFO:Check whether repository files have been modified
+2023-01-14 10:21:46,959 INFO:Current working directory: C:\Users\rukam\Desktop\ecs_api
+2023-01-14 10:21:46,989 INFO:local changes: False
+2023-01-14 10:21:46,989 INFO:Check whether the current head commit was authored in the last week
+2023-01-14 10:21:46,989 INFO:Current working directory: C:\Users\rukam\Desktop\ecs_api
+2023-01-14 10:21:47,026 INFO:Authorized datetime: 2023-01-08 19:40:52
+2023-01-14 10:21:47,027 INFO:Start day of last week is : 2023-01-02
+2023-01-14 10:21:47,027 INFO:End day of last week is : 2023-01-08
+2023-01-14 10:21:47,027 INFO:recent commit: True
+2023-01-14 10:21:47,027 INFO:Check whether the current head commit was authored by Rufus
+2023-01-14 10:21:47,027 INFO:Current working directory: C:\Users\rukam\Desktop\ecs_api
+2023-01-14 10:21:47,060 INFO:Author name is: mie-h
+2023-01-14 10:21:47,060 INFO:blame Rufus: False
+2023-01-14 10:21:47,060 INFO:Output on stdout...
+2023-01-14 10:21:47,061 INFO:Output on stdout successful
+2023-01-14 10:21:47,061 INFO:Task completed
+2023-01-14 10:22:53,266 INFO:Check status of directory: ../ecs_api/
+2023-01-14 10:22:53,267 INFO:Changed directory to ../ecs_api/
+2023-01-14 10:22:53,267 INFO:Get active branch name
+2023-01-14 10:22:53,267 INFO:Current working directory: C:\Users\rukam\Desktop\ecs_api
+2023-01-14 10:22:53,356 INFO:active branch: test_branch
+2023-01-14 10:22:53,357 INFO:Check whether repository files have been modified
+2023-01-14 10:22:53,357 INFO:Current working directory: C:\Users\rukam\Desktop\ecs_api
+2023-01-14 10:22:53,405 INFO:local changes: True
+2023-01-14 10:22:53,406 INFO:Check whether the current head commit was authored in the last week
+2023-01-14 10:22:53,406 INFO:Current working directory: C:\Users\rukam\Desktop\ecs_api
+2023-01-14 10:22:53,463 INFO:Authorized datetime: 2023-01-08 19:40:52
+2023-01-14 10:22:53,464 INFO:Start day of last week is : 2023-01-02
+2023-01-14 10:22:53,464 INFO:End day of last week is : 2023-01-08
+2023-01-14 10:22:53,464 INFO:recent commit: True
+2023-01-14 10:22:53,464 INFO:Check whether the current head commit was authored by Rufus
+2023-01-14 10:22:53,464 INFO:Current working directory: C:\Users\rukam\Desktop\ecs_api
+2023-01-14 10:22:53,517 INFO:Author name is: mie-h
+2023-01-14 10:22:53,517 INFO:blame Rufus: False
+2023-01-14 10:22:53,517 INFO:Output on stdout...
+2023-01-14 10:22:53,518 INFO:Output on stdout successful
+2023-01-14 10:22:53,519 INFO:Task completed
+2023-01-14 10:23:15,301 INFO:Check status of directory: ../ecs_api/
+2023-01-14 10:23:15,302 INFO:Changed directory to ../ecs_api/
+2023-01-14 10:23:15,302 INFO:Get active branch name
+2023-01-14 10:23:15,302 INFO:Current working directory: C:\Users\rukam\Desktop\ecs_api
+2023-01-14 10:23:15,333 INFO:active branch: test_branch
+2023-01-14 10:23:15,333 INFO:Check whether repository files have been modified
+2023-01-14 10:23:15,333 INFO:Current working directory: C:\Users\rukam\Desktop\ecs_api
+2023-01-14 10:23:15,370 INFO:local changes: True
+2023-01-14 10:23:15,370 INFO:Check whether the current head commit was authored in the last week
+2023-01-14 10:23:15,370 INFO:Current working directory: C:\Users\rukam\Desktop\ecs_api
+2023-01-14 10:23:15,409 INFO:Authorized datetime: 2023-01-08 19:40:52
+2023-01-14 10:23:15,409 INFO:Start day of last week is : 2023-01-02
+2023-01-14 10:23:15,409 INFO:End day of last week is : 2023-01-08
+2023-01-14 10:23:15,409 INFO:recent commit: True
+2023-01-14 10:23:15,409 INFO:Check whether the current head commit was authored by Rufus
+2023-01-14 10:23:15,409 INFO:Current working directory: C:\Users\rukam\Desktop\ecs_api
+2023-01-14 10:23:15,445 INFO:Author name is: mie-h
+2023-01-14 10:23:15,446 INFO:blame Rufus: True
+2023-01-14 10:23:15,446 INFO:Output on stdout...
+2023-01-14 10:23:15,447 INFO:Output on stdout successful
+2023-01-14 10:23:15,448 INFO:Task completed
+2023-01-14 10:24:31,313 INFO:Check status of directory: ../ecs_api/
+2023-01-14 10:24:31,314 INFO:Changed directory to ../ecs_api/
+2023-01-14 10:24:31,314 INFO:Get active branch name
+2023-01-14 10:24:52,777 INFO:Check status of directory: ../ecs_api/
+2023-01-14 10:24:52,778 INFO:Changed directory to ../ecs_api/
+2023-01-14 10:24:52,778 INFO:Get active branch name
+2023-01-14 10:25:04,163 INFO:Check status of directory: ../ecs_api/
+2023-01-14 10:25:04,163 INFO:Changed directory to ../ecs_api/
+2023-01-14 10:25:04,164 INFO:Get active branch name
+2023-01-14 10:25:04,164 INFO:Current working directory: C:\Users\rukam\Desktop\ecs_api
+2023-01-14 10:25:04,191 INFO:active branch: test_branch
+2023-01-14 10:25:04,191 INFO:Check whether repository files have been modified
+2023-01-14 10:25:04,192 INFO:Current working directory: C:\Users\rukam\Desktop\ecs_api
+2023-01-14 10:25:04,224 INFO:local changes: True
+2023-01-14 10:25:04,224 INFO:Check whether the current head commit was authored in the last week
+2023-01-14 10:25:04,224 INFO:Current working directory: C:\Users\rukam\Desktop\ecs_api
+2023-01-14 10:25:04,259 INFO:Authorized datetime: 2023-01-08 19:40:52
+2023-01-14 10:25:04,259 INFO:Start day of last week is : 2023-01-02
+2023-01-14 10:25:04,259 INFO:End day of last week is : 2023-01-08
+2023-01-14 10:25:04,259 INFO:recent commit: True
+2023-01-14 10:25:04,259 INFO:Check whether the current head commit was authored by Rufus
+2023-01-14 10:25:04,259 INFO:Current working directory: C:\Users\rukam\Desktop\ecs_api
+2023-01-14 10:25:04,293 INFO:Author name is: mie-h
+2023-01-14 10:25:04,293 INFO:blame Rufus: False
+2023-01-14 10:25:04,293 INFO:Output on stdout...
+2023-01-14 10:25:04,303 INFO:Output on stdout successful
+2023-01-14 10:25:04,303 INFO:Task completed
+2023-01-14 10:32:49,375 INFO:Check status of directory: ../ecs_api/
+2023-01-14 10:32:49,375 INFO:Changed directory to ../ecs_api/
+2023-01-14 10:32:49,375 INFO:Get active branch name
+2023-01-14 10:32:49,375 INFO:Current working directory: C:\Users\rukam\Desktop\ecs_api
+2023-01-14 10:32:49,405 INFO:active branch: test_branch
+2023-01-14 10:32:49,405 INFO:Check whether repository files have been modified
+2023-01-14 10:32:49,405 INFO:Current working directory: C:\Users\rukam\Desktop\ecs_api
+2023-01-14 10:32:49,439 INFO:local changes: True
+2023-01-14 10:32:49,439 INFO:Check whether the current head commit was authored in the last week
+2023-01-14 10:32:49,439 INFO:Current working directory: C:\Users\rukam\Desktop\ecs_api
+2023-01-14 10:32:49,468 INFO:Authorized datetime: 2023-01-08 19:40:52
+2023-01-14 10:32:49,468 INFO:Start day of last week is : 2023-01-02
+2023-01-14 10:32:49,468 INFO:End day of last week is : 2023-01-08 (inclusive)
+2023-01-14 10:32:49,468 INFO:recent commit: True
+2023-01-14 10:32:49,469 INFO:Check whether the current head commit was authored by Rufus
+2023-01-14 10:33:21,627 INFO:Check status of directory: ../ecs_api/
+2023-01-14 10:33:21,627 INFO:Changed directory to ../ecs_api/
+2023-01-14 10:33:21,627 INFO:Get active branch name
+2023-01-14 10:33:21,627 INFO:Current working directory: C:\Users\rukam\Desktop\ecs_api
+2023-01-14 10:33:21,664 INFO:active branch: test_branch
+2023-01-14 10:33:21,664 INFO:Check whether repository files have been modified
+2023-01-14 10:33:21,664 INFO:Current working directory: C:\Users\rukam\Desktop\ecs_api
+2023-01-14 10:33:21,704 INFO:local changes: True
+2023-01-14 10:33:21,704 INFO:Check whether the current head commit was authored in the last week
+2023-01-14 10:33:21,704 INFO:Current working directory: C:\Users\rukam\Desktop\ecs_api
+2023-01-14 10:33:21,823 INFO:Authorized datetime: 2023-01-08 19:40:52
+2023-01-14 10:33:21,823 INFO:Start day of last week is : 2023-01-02
+2023-01-14 10:33:21,823 INFO:End day of last week is : 2023-01-08 (inclusive)
+2023-01-14 10:33:21,824 INFO:recent commit: True
+2023-01-14 10:33:21,824 INFO:Check whether the current head commit was authored by Rufus
+2023-01-14 10:33:21,824 INFO:Current working directory: C:\Users\rukam\Desktop\ecs_api
+2023-01-14 10:33:21,912 INFO:Author name is: mie-h
+2023-01-14 10:33:21,913 INFO:blame Rufus: False
+2023-01-14 10:33:21,913 INFO:Output on stdout...
+2023-01-14 10:33:21,915 INFO:Output on stdout successful
+2023-01-14 10:33:21,915 INFO:Task completed
