@@ -16,7 +16,7 @@ This program prints the following things:
 1.  Clone the repo
 
 ```sh
-git clone https://github.com/your_username_/Project-Name.git
+git clone https://github.com/<username>/git-dir-status.git
 ```
 
 2. Install packages
