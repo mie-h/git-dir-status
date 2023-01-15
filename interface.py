@@ -29,9 +29,7 @@ def driver(pv_git_dir):
     # find_active_branch()
     get_active_branch()
     
-    logging.info(f"Check whether repository files have been modified")
     lv_is_modified = is_modified()
-    logging.info(f"local changes: {lv_is_modified}")
 
     is_last_week()
 
@@ -39,7 +37,6 @@ def driver(pv_git_dir):
     lv_is_rufus = is_rufus()
     logging.info(f"blame Rufus: {lv_is_rufus}")
 
-    print(f"local changes: {lv_is_modified}")
     print(f"blame Rufus: {lv_is_rufus}")
 
     logging.info(f"Output on stdout successful")
