@@ -23,7 +23,7 @@ This program prints the following things:
    pip3 install -r requirements.txt
 ```
 
-## 🏃 Usage
+## 🏃‍♀️ Usage
 
 Run the program using following command.
 
