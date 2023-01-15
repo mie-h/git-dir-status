@@ -2,7 +2,7 @@ import argparse
 import logging
 import os
 import git
-from find_active_branch import find_active_branch, get_active_branch
+from find_active_branch import find_active_branch
 from is_modified import is_modified
 from is_last_week import is_last_week
 from is_rufus import is_rufus
@@ -25,19 +25,10 @@ def driver(pv_git_dir):
     os.chdir(pv_git_dir)
     logging.info(f"Changed directory to {pv_git_dir}")
 
-    
-    # find_active_branch()
-    get_active_branch()
-    
-    lv_is_modified = is_modified()
-
+    find_active_branch()
+    is_modified()
     is_last_week()
-
-    logging.info(f"Check whether the current head commit was authored by Rufus")
-    lv_is_rufus = is_rufus()
-    logging.info(f"blame Rufus: {lv_is_rufus}")
-
-    print(f"blame Rufus: {lv_is_rufus}")
+    is_rufus()
 
     logging.info(f"Output on stdout successful")
     return 0
