@@ -20,15 +20,11 @@ def driver(pv_git_dir):
         print(f"{pv_git_dir} Not a git repo")
         logging.error(f"git_dir is not git repo or invalid")
         return -1
-    
-    logging.info(f"Check status of directory: {pv_git_dir}")
-    os.chdir(pv_git_dir)
-    logging.info(f"Changed directory to {pv_git_dir}")
 
-    find_active_branch()
-    is_modified()
-    is_last_week()
-    is_rufus()
+    find_active_branch(pv_git_dir)
+    is_modified(pv_git_dir)
+    is_last_week(pv_git_dir)
+    is_rufus(pv_git_dir)
 
     logging.info(f"Output on stdout successful")
     return 0

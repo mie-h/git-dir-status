@@ -4,7 +4,7 @@ import os
 import sys
 from datetime import datetime, timedelta, date
 
-def get_head_commit_time():
+def get_head_commit_time(pv_git_dir):
     """Get authorized datetime of HEAD commit in UNIX timestamp"""
     currentFuncName = lambda n=0: sys._getframe(n + 1).f_code.co_name
     logging.info(f"Current working directory: {os.getcwd()}")
@@ -12,7 +12,7 @@ def get_head_commit_time():
     lv_epoch_time = None
     try:
         # %at gets author date, UNIX timestamp
-        lv_cmd = 'git log -1 --pretty=format:%at HEAD'
+        lv_cmd = 'git -C ' + pv_git_dir + ' log -1 --pretty=format:%at HEAD'
         lv_result = subprocess.run(lv_cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE, check=True)
         lv_epoch_time = float(lv_result.stdout.decode('utf-8'))
         
@@ -24,11 +24,11 @@ def get_head_commit_time():
         logging.error(f"{currentFuncName()}, Error: git command not found.")
     return lv_epoch_time
 
-def is_last_week():
+def is_last_week(pv_git_dir):
     """Check if the given datetime is in the last week."""
     logging.info(f"Check whether repository files have been modified")
 
-    lv_datetime = get_head_commit_time()
+    lv_datetime = get_head_commit_time(pv_git_dir)
     lv_is_lastweek = False
     if lv_datetime:
         lv_today = date.today()
