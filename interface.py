@@ -2,7 +2,7 @@ import argparse
 import logging
 import os
 import git
-from get_active_branch import get_active_branch
+from find_active_branch import find_active_branch, get_active_branch
 from is_modified import is_modified
 from is_last_week import is_last_week
 from is_rufus import is_rufus
@@ -11,12 +11,13 @@ def is_git_repo(path):
     try:
         _ = git.Repo(path).git_dir
         return True
-    except git.exc.InvalidGitRepositoryError:
+    except:
         return False
 
 def driver(pv_git_dir):
     # check if git directory is valid
     if not is_git_repo(pv_git_dir):
+        print(f"{pv_git_dir} Not a git repo")
         logging.error(f"git_dir is not git repo or invalid")
         return -1
     
@@ -24,26 +25,21 @@ def driver(pv_git_dir):
     os.chdir(pv_git_dir)
     logging.info(f"Changed directory to {pv_git_dir}")
 
-    logging.info(f"Get active branch name")
-    lv_active_branch = get_active_branch()
-    logging.info(f"active branch: {lv_active_branch}")
+    
+    # find_active_branch()
+    get_active_branch()
     
     logging.info(f"Check whether repository files have been modified")
     lv_is_modified = is_modified()
     logging.info(f"local changes: {lv_is_modified}")
 
-    logging.info(f"Check whether the current head commit was authored in the last week")
-    lv_is_lastweek = is_last_week()
-    logging.info(f"recent commit: {lv_is_lastweek}")
+    is_last_week()
 
     logging.info(f"Check whether the current head commit was authored by Rufus")
     lv_is_rufus = is_rufus()
     logging.info(f"blame Rufus: {lv_is_rufus}")
 
-    logging.info(f"Output on stdout...")
-    print(f"active branch: {lv_active_branch}")
     print(f"local changes: {lv_is_modified}")
-    print(f"recent commit: {lv_is_lastweek}")
     print(f"blame Rufus: {lv_is_rufus}")
 
     logging.info(f"Output on stdout successful")
