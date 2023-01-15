@@ -14,15 +14,14 @@ This program prints the following things:
 ### Installation
 
 1.  Clone the repo
-
 ```sh
-git clone https://github.com/mie-h/git-dir-status.git
+   git clone https://github.com/mie-h/git-dir-status.git
 ```
 
 2. Install packages
-   ```sh
+```sh
    pip3 install -r requirements.txt
-   ```
+```
 
 ## 🏃 Usage
 
@@ -35,10 +34,10 @@ Run the program using following command.
 This will create `interface.log` file and output the following:
 
 ```
-active branch: master
-local changes: False
-recent commit: True
-blame Rufus: True
+   active branch: master
+   local changes: False
+   recent commit: True
+   blame Rufus: True
 ```
 
 For more detailed logs, please check `interface.log` file.
