@@ -1,18 +1,16 @@
 import logging
 import subprocess
-import os
 import sys
 
 def get_head_commit_author(pv_git_dir):
     """Get author name of HEAD commit in UNIX timestamp"""
     currentFuncName = lambda n=0: sys._getframe(n + 1).f_code.co_name
 
-    logging.info(f"Current working directory: {os.getcwd()}")
     lv_name = None
     try:
         # %an gets author name
         lv_cmd = 'git -C ' + pv_git_dir + ' log -1 --pretty=format:%an HEAD'
-        lv_result = subprocess.run(lv_cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE, check=True)
+        lv_result = subprocess.run(lv_cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE, check=True, shell=True)
         lv_name = lv_result.stdout.decode('utf-8')
         logging.info(f"Author name is: {lv_name}")
     except subprocess.CalledProcessError as e:
